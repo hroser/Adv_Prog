@@ -1,8 +1,6 @@
 # Repository for doing the coding examples of the Adv. Prog. Class
 
-## Be sure to check your code before commiting
-inserted again
+As a resource we use the Google Python class  
+[https://developers.google.com/edu/python](https://developers.google.com/edu/python)
 
-## Third line
 
-another new line
