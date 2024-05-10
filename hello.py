@@ -29,6 +29,10 @@ def main():
   print('Howdy', name)
   print('yay!')
 
+"I'm ali and adding some line here."
+
 # This is the standard boilerplate that calls the main() function.
 if __name__ == '__main__':
   main()
+
+#%%
