@@ -26,7 +26,7 @@ def main():
   if len(sys.argv) >= 2:
     name = sys.argv[1]
   else:
-    name = 'World'
+    name = 'OtherName'
   print('Howdy', name)
   print('yay!')
 
