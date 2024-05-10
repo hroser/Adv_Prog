@@ -16,7 +16,7 @@ That should print:
 Try changing the 'Hello' to 'Howdy' and run again.
 Once you have that working, you're ready for class -- you can edit
 and run Python code; now you just need to learn Python!
-Ali's change at 19:52.
+hello just to conflict
 """
 
 import sys
@@ -27,9 +27,10 @@ def main():
   if len(sys.argv) >= 2:
     name = sys.argv[1]
   else:
-    name = 'OtherName'
+    name = 'World'
   print('Howdy', name)
   print('yay!')
+  print('GGBOIIS')
 
 "I'm ali and adding some line here."
 
