@@ -17,6 +17,10 @@ Try changing the 'Hello' to 'Howdy' and run again.
 Once you have that working, you're ready for class -- you can edit
 and run Python code; now you just need to learn Python!
 hola old version
+--
+some extended documentation
+the hello.py function is used for ...
+note: ...
 """
 
 import sys
