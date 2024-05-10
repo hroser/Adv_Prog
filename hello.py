@@ -10,6 +10,7 @@
 Try running this program from the command line like this:
   python hello.py
   python hello.py Alice
+  Another comment line added
 That should print:
   Hello World -or- Hello Alice
 Try changing the 'Hello' to 'Howdy' and run again.
