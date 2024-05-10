@@ -23,6 +23,8 @@ hola old version
 some extended documentation
 the hello.py function is used for ...
 note: ...
+more additional lines
+more additional lines
 """
 
 import sys
