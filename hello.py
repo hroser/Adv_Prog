@@ -6,7 +6,9 @@
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
 
-"""A tiny Python program to check that Python is working.
+"""
+Ali commits up here.
+A tiny Python program to check that Python is working.
 Try running this program from the command line like this:
   python hello.py
   python hello.py Alice
@@ -16,7 +18,13 @@ That should print:
 Try changing the 'Hello' to 'Howdy' and run again.
 Once you have that working, you're ready for class -- you can edit
 and run Python code; now you just need to learn Python!
-hello just to conflict
+hola old version
+--
+some extended documentation
+the hello.py function is used for ...
+note: ...
+more additional lines
+more additional lines
 """
 
 import sys
